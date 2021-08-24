@@ -8,8 +8,8 @@ Foi projetado como um modelo de layout unidimensional e como um método que pode
 
 ## Flex Container
 É a tag que envolve os itens, será nela que iremos aplicar a propriedade `display: flex`. Transforma todos os seus itens filhos em flex itens. Propriedades relacionadas: 
-- flex-direction (faz o direcionamento dos itens em linha ou coluna)
-- flex-wrap (quebra de linha)
+- flex-direction (faz o direcionamento dos itens em linha ou coluna). Por padrão é da esquerda para direita `row`, o `row-reverse` é o sentido oposto, `column` é a ordenação de cima para baixo, `column-reverse` é a ordenação de baixo para cima. 
+- flex-wrap (quebra de linha). `nowrap` é o padrão é não quebrar linha, `wrap` permite a quebra de linha, quando um elemento não couber na linha ele vai ser jogado para a próxima linha.
 - flex-flow (é uma abreviação para o direction e o wrap)
 - justify-content (alinha os itens de acordo com a direção)
 - align-items (alinha os itens de acordo com o eixo do container)
