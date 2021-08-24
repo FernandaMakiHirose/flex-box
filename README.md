@@ -22,7 +22,7 @@ São elementos filhos diretos do Flex Container. E também podem se tornar Flex 
 - flex-grow (define o fator de crescimento)
 - flax-basis (define o tamanho inicial do item antes da distribuição)
 - flex-shrink (capacidade de redução)
-- flex (abreviação para as 3 propriedades anteriores)
+- flex (um item do lado do outro)
 - order (ordem de distribuição e listagem dos itens)
 - align-self (alinhamento de um item específico)
 
