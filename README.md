@@ -1,5 +1,5 @@
 # Posicionando elementos com Flexbox em CSS
-## Pré-requisitos
+##  Requisitos
 - IDE
 - Navegador
 
@@ -27,8 +27,3 @@ São elementos filhos diretos do Flex Container. E também podem se tornar Flex 
 - align-self (alinhamento de um item específico), `auto` é o valor padrão, `flex-start`, os itens ficam no início do container, `flex-end` no final do container, `center` relativo ao centro de acordo com o eixo, `stretch` ocupa todo o espaço relativo, `baseline` utiliza a linha base da tipografia.
 
 ![container](https://user-images.githubusercontent.com/72028645/130624783-16925f6f-0e0c-4530-b53f-3f399ac53270.png)
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
